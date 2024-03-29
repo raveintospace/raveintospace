@@ -1,6 +1,6 @@
-### Here you can find all my iOS projects. Feel free to explore them and contact me through LinkedIn if you wanna know more 😇
+### Here you can find all my iOS projects. Feel free to explore them and contact me through LinkedIn if you want know more 😇
 
-I'm open to job offers, do not hesitate to send me an open position if you think I can fit in it 🙏🏻
+I am currently open to job offers. Please do not hesitate to reach out if you believe I would be a good fit for any available positions 🙏🏻
 
 <!--
 **raveintospace/raveintospace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
